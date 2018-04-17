@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dox/Algorithm/CameraDecode/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include -isystem /usr/local/include/opencv  -O3 -DNDEBUG   -o CMakeFiles/cameradecode.dir/main.cpp.o -c /home/dox/Algorithm/CameraDecode/main.cpp",
+  "file": "/home/dox/Algorithm/CameraDecode/main.cpp"
+},
+{
+  "directory": "/home/dox/Algorithm/CameraDecode/build/src",
+  "command": "/usr/bin/c++  -DFrameDecompress_EXPORTS -isystem /usr/local/include -isystem /usr/local/include/opencv  -O3 -DNDEBUG -fPIC   -o CMakeFiles/FrameDecompress.dir/H264Decompress.cpp.o -c /home/dox/Algorithm/CameraDecode/src/H264Decompress.cpp",
+  "file": "/home/dox/Algorithm/CameraDecode/src/H264Decompress.cpp"
+}
+]

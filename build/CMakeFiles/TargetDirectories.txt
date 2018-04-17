@@ -1,0 +1,14 @@
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/cameradecode.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/install.dir
+/home/dox/Algorithm/CameraDecode/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/install/local.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/FrameDecompress.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/install.dir
+/home/dox/Algorithm/CameraDecode/build/src/CMakeFiles/list_install_components.dir

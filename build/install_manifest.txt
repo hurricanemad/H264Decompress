@@ -1,0 +1,2 @@
+/home/dox/Algorithm/CameraDecode/build/./install/cameradecode
+/home/dox/Algorithm/CameraDecode/build/./install/lib/libFrameDecompress.so
